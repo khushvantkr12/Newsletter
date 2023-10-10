@@ -48,7 +48,7 @@ app.post("/", function(req, res){
 
     const options = {
         method: "POST",
-        auth: "kittu3:a5f1d4edc4def802ee9f62c2c5ab05c3-us11"
+        auth: "kittu22:efc9f197ca1113f8bde1765717914554-us11"
     };
 
     // *** Requesting and send back our data to mailchimp ***
